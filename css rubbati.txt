@@ -1,0 +1,17 @@
+background-color: #000000;
+background:url('http://i.imgur.com/30U5WgF.png') top left no-repeat,url('') top right repeat-x,url('') top right no-repeat,url(http://i.imgur.com/wVDCavf.jpg)fixed center}*{transition:.3s}table,tr,[class*=_t]{background:0!important}.vbmenu_control *{border-radius:3px}*{text-shadow:1px 1px 3px#ffffff}*{cursor:url(http://i.imgur.com/bkR8zi2.png),auto!important}*{color:#acf7fa!important}*{font:12px Comic Sans MS!important}h1,[src*=gi]:not([width='425']):not([longdesc]),img:not([src*=\/t]):not([width='425']):not([longdesc]){display:none}@-webkit-keyframes f{0%{opacity:0}100%{opacity:1}}@keyframes f{0%{opacity:0}100%{opacity:1}}embed,[class*=_t]{box-shadow:0 0 5px#010206}embed{-webkit-animation:f 2.5s 1}embed{animation:f 1 2.5s}#chat embed{background:url(http://i.imgur.com/XpVUUkN.png)}.vbmenu_control *{border:none!important}[class*=_t]:hover{background:#1b3781!important};}
+
+
+{cursor: url(http://i64.tinypic.com/b7gmcj.jpg),auto;}
+               https://i.imgur.com/9E0054l.png
+
+
+background-color: #000000;
+background:url('https://i.imgur.com/iVPXkc7.gif') top 10px center no-repeat, url('https://i.imgur.com/P7sh2J6.jpg') top center/cover fixed repeat-x}#chat embed{background:url('https://i.imgur.com/MMS8TKy.jpgzp6ochs.jpg')}#chat embed:hover{background:url('https://i.imgur.com/MMS8TKy.jpgzp6ochs.jpg')}.vbmenu_control{display:none}[height='10']{display:none} embed.btext,td[width="2%"] img,td[width='40'] img{opacity:0}table[height="51"]*{-webkit-user-select:none}span:hover{color:transparent}a:hover{background:#0}a:hover{color:#ffff99}embed:hover{-webkit-transform: rotate(0deg)}*{transition:all.7s ease}embed{box-shadow: 0px 0px 15px #}@keyframes pulse { 0% {transform: scale(1)} 50% {transform: scale(1.1)} 100% {transform: scale(1)} }@keyframes right{ from{right:-142px} to{right:0px} } img{opacity:100}img:hover{-webkit-transform: rotate(2deg)}img{box-shadow:0px 0px 15px #}a:hover{color:#ffff99}embed{-webkit-box-reflect: below 1px -webkit-linear-gradient(bottom, rgba(255, 255, 255, 0.3) 0, transparent 30%, transparent 100)}[name=JornMadeThis]{position: absolute}(http://i64.tinypic.com/b7gmcj.jpg){height:68px}table[height="51"]{background:rgba(0, 0, 0, 0) url(https://i.imgur.com/Ys41XV2.png) top 13px right no-repeat}table[height="10"]{background:rgba(0, 0, 0, 0)}h1, h2{opacity:0}table[height="30"], table[height="24"]{background:rgba(0, 0, 0, 0.4)}tr[height="10"]{opacity:0}div[style="height:16px"]{display:none}td[width="2%"]{width:57px}td[width="2%"][rowspan]{background:url(https://i.imgur.com/I5cIrPP.png) top left 0px no-repeat}td[width="2%"] img{width:100%}td[width="2%"] img{height:55px}td[align=center] img{margin-top:10px} td[height="23"] img{display:none}td[height="23"], .vbmenu_control_o{display:none}td[height="23"]{background:url()}td[width='40']img,.btext{opacity:0}.btext a{opacity:0}img[src*=xatblk]{opacity:1!important}table {background:0}h1{text-indent:-9in}*{font-family:Helvetica}a:link,a:visited{color:#ffff99}td[width='1%'],td[width='0%']{display:none}#chat{display:block;} nxat.ga/game
+
+
+
+
+
+
+https://pastebin.com/w0TH27zX
